@@ -24,6 +24,6 @@ def clean_and_phrase_data():
     hashtag_string = " #".join(tag_list)
     print(f"Formatted Tags: #{hashtag_string}")
 
-    if __name__ == "__main__"
-    print("=== WEEK 5: STRING MANIPULAYION LAB ===\n")
+if __name__ == "__main__":
+    print("--- WEEK 5: STRING MANIPULATION LAB ---\n")
     clean_and_phrase_data()
